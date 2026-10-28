@@ -1,0 +1,10 @@
+
+# Large ML dataset
+fraud_dataset.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
